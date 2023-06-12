@@ -33,7 +33,3 @@
 
 ## Acknowledgements
 - The inspiration for this project originated from a case study presented in the Executive PG Program in Data Science by IIIT Bengaluru.
-
-
-## Contact
-Created by [@rahulkpareek] - feel free to contact me!
